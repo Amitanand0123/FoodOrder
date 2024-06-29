@@ -7,7 +7,7 @@ export const StoreContext = createContext(null)
 const StoreContextProvider = (props) => {
 
     const [cartItems,setCartItems] = useState({});
-    const url = "https://render.com/docs/web-services#port-binding"
+    const url = "https://foodorder-backend-q7ny.onrender.com"
     const [token,setToken] = useState("")
     const [food_list,setFoodList] = useState([]);
 
