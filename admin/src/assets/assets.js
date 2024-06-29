@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://render.com/docs/web-services#port-binding'
+export const url = 'https://foodorder-backend-q7ny.onrender.com'
